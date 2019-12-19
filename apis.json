@@ -1,0 +1,60 @@
+{
+    "name": "PayRun",
+    "description": "An open, scalable, transparent and HMRC accredited payroll API. Put the power of payroll into your application today.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28484-payrun-io.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "payroll",
+        "relative data",
+        "service api",
+        "streams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/payrun\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pay Run.IO",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28484-payrun-io.jpg",
+            "humanURL": "http:\/\/www.payrun.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/pay-run-io.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.payrun.io"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.payrun.io\/docs\/home\/index.html"
+        },
+        {
+            "type": "Email",
+            "url": "support@payrun.io"
+        },
+        {
+            "type": "Email",
+            "url": "info@payrun.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PayRun_io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/api.test.payrun.io"
+        }
+    ]
+}
